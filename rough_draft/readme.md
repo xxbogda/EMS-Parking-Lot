@@ -14,4 +14,5 @@ thresholdTime: time where IRX should keep its state for barrier to change
 
 (in loop)
 IRxRising/LoweringTime: keeps track of the time of the signal change (low->high or viceversa)
+
 StateIRx: current state
