@@ -1,0 +1,16 @@
+d13-servomotor
+a0-senzor ir
+a2-senzor ir
+a3-sda nfc
+a5-scl nfc
+d10-servomotor
+ssd1-d4
+ssd2-d9
+ssd3-d6
+ssd4-d5
+ssd5-d8
+ssd6-d2
+ssd7-d3
+ssd8-d12+r
+ssd9-d11+r
+ssd10-d7
