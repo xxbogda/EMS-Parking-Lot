@@ -1,3 +1,3 @@
 # EMS-Parking-Lot
 
-FOr uni xoxo
+For uni xoxo
